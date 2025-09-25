@@ -5,6 +5,6 @@ Hi yoogi, when are you going home!?
 
 ##########################################
 
-Whenever u are.
+[Enter the fun thing by replacing this line]
 
 ##########################################
